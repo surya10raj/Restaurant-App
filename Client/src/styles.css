@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Josefin+Sans&family=Kalam:wght@400;700&family=Outfit:wght@400;500&family=Questrial&display=swap');
+
+.active-user {
+    position: relative !important;
+    font-family: 'Cookie', cursive;
+    font-size: 4vh;
+    color: #ffffff;
+    padding: 4px;
+    border-radius: 2px;
+}
+
+
+input {
+    border: none;
+}
+
+form {
+    max-width: max-content;
+}
+
+button {
+    border: none;
+    margin-left: 20px;
+    color: snow;
+}
+
+html {
+    background-image: url("./Restaurent.jpeg");
+    background-size: cover;
+}
+
+body {
+    background-color: transparent !important;
+}
+
+h1 {
+    color: snow;
+}
